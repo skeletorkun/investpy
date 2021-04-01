@@ -21,7 +21,7 @@ Welcome to investpy's documentation!
 
 
 Indices and tables
-==================
+=================
 
 * :ref:`genindex`
 * :ref:`modindex`
